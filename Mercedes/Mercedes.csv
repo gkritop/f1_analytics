@@ -1,0 +1,43 @@
+team,engine,driver_name,track,fasted_lap,fasted_lap_time,pit,grid,laps,best_lap_time,driver_time_int,retired,driver_time,position
+Mercedes,Mercedes,Lewis Hamilton (GBR),Bahrain International Circuit,,,2.0,,56.0,1:34.918,1:34.918,false,1:34.918,1
+Mercedes,Mercedes,Valtteri Bottas (FIN),Bahrain International Circuit,,1:32.090,3.0,,56.0,2:12.301,	+37.383,false,2:12.301,3
+Mercedes,Mercedes,Lewis Hamilton (GBR),Sochi International Street Circuit,,,3.0,,53.0,1:28.77,	+13.016,false,1:28.77,4
+Mercedes,Mercedes,George Russell (GBR),Sochi International Street Circuit,,,3.0,,53.0,1:19.132,	+4.071,false,1:19.132,2
+Mercedes,Mercedes,Lewis Hamilton (GBR),Circuit de Catalunya,,,2.0,,66.0,1:21.985,1:21.985,false,1:21.985,1
+Mercedes,Mercedes,Valtteri Bottas (FIN),Circuit de Catalunya,,,2.0,,66.0,1:48.595,	+26.610,false,1:48.595,3
+Mercedes,Mercedes,Lewis Hamilton (GBR),Circuit de Monaco,,1:12.909,2.0,,78.0,2:25.060,	+68.231,false,2:25.060,7
+Mercedes,Mercedes,Valtteri Bottas (FIN),Circuit de Monaco,,,,,28.0,,	+,true,DNF,20
+Mercedes,Mercedes,Valtteri Bottas (FIN),Baku City Circuit,,,3.0,,51.0,1:55.967,	+11.264,false,1:55.967,12
+Mercedes,Mercedes,Lewis Hamilton (GBR),Baku City Circuit,,,3.0,,51.0,2:02.371,	+17.668,false,2:02.371,15
+Mercedes,Mercedes,Valtteri Bottas (FIN),Red Bull Ring,,,1.0,,71.0,1:25.710,	+17.973,false,1:25.710,2
+Mercedes,Mercedes,Lewis Hamilton (GBR),Red Bull Ring,,,2.0,,71.0,1:54.189,	+46.452,false,1:54.189,4
+Mercedes,Mercedes,Lewis Hamilton (GBR),Silverstone Circuit,,,2.0,,52.0,1:31.635,1:31.635,false,1:31.635,1
+Mercedes,Mercedes,Valtteri Bottas (FIN),Silverstone Circuit,,,2.0,,52.0,1:42.760,	+11.125,false,1:42.760,3
+Mercedes,Mercedes,Lewis Hamilton (GBR),Hungaroring,,,4.0,,66.0,1:24.423,	+2.736,false,1:24.423,2
+Mercedes,Mercedes,Valtteri Bottas (FIN),Hungaroring,,,0.0,,0.0,,	+67LAPS,true,DNF,15
+Mercedes,Mercedes,Lewis Hamilton (GBR),Spa-Francorchamps,,,0.0,,1.0,,,false,,3
+Mercedes,Mercedes,Valtteri Bottas (FIN),Spa-Francorchamps,,,0.0,,1.0,,,false,,12
+Mercedes,Mercedes,Lewis Hamilton (GBR),Autodromo Nazionale Monza,,1:16.702,4.0,,25.0,,	+27LAPS,true,DNF,17
+Mercedes,Mercedes,Valtteri Bottas (FIN),Autodromo Nazionale Monza,,,1.0,,53.0,1:29.733,	+4.921,false,1:29.733,3
+Mercedes,Mercedes,George Russell (GBR),Circuit of the Americas,,,3.0,,,1:19.132,	+4.071,false,1:19.132,2
+Mercedes,Mercedes,Lewis Hamilton (GBR),Circuit of the Americas,,,3.0,,,1:28.77,	+13.016,false,1:28.77,4
+Mercedes,Mercedes,Lewis Hamilton (GBR),Autodromo Hermanos Rodriguez,,,3.0,,71.0,1:28.77,	+13.016,false,1:28.77,4
+Mercedes,Mercedes,George Russell (GBR),Autodromo Hermanos Rodriguez,,,3.0,,69.0,1:19.132,	+4.071,false,1:19.132,2
+Mercedes,Mercedes,Lewis Hamilton (GBR),Autodromo Jose Carlos Pace,,,3.0,,71.0,1:13.860,1:13.860,false,1:13.860,1
+Mercedes,Mercedes,Lewis Hamilton (GBR),Yas Marina Circuit,,,3.0,,58.0,1:28.874,	+2.256,false,1:28.874,2
+Mercedes,Mercedes,Lewis Hamilton (GBR),Circuit Paul Ricard,,,1.0,,53.0,1:40.047,	+2.904,false,1:40.047,2
+Mercedes,Mercedes,Valtteri Bottas (FIN),Circuit Paul Ricard,,,1.0,,53.0,1:51.761,	+14.618,false,1:51.761,4
+Mercedes,Mercedes,Lewis Hamilton (GBR),Circuit Zandvoort,,1:11.097,3.0,,72.0,1:35.688,	+20.932,false,1:35.688,2
+Mercedes,Mercedes,Valtteri Bottas (FIN),Circuit Zandvoort,,,2.0,,72.0,2:11.216,	+56.460,false,2:11.216,3
+Mercedes,Mercedes,Lewis Hamilton (GBR),Autodromo Enzo e Dino Ferrari,,,3.0,,63.0,1:28.77,	+13.016,false,1:28.77,4
+Mercedes,Mercedes,George Russell (GBR),Autodromo Enzo e Dino Ferrari,,,3.0,,30.0,1:19.132,	+4.071,false,1:19.132,2
+Mercedes,Mercedes,George Russell (GBR),Intercity Istanbul Park,,,3.0,,,1:19.132,	+4.071,false,1:19.132,2
+Mercedes,Mercedes,Lewis Hamilton (GBR),Intercity Istanbul Park,,,3.0,,,1:28.77,	+13.016,false,1:28.77,4
+Mercedes,Mercedes,Lewis Hamilton (GBR),Red Bull Ring,,,3.0,,71.0,1:28.77,	+13.016,false,1:28.77,4
+Mercedes,Mercedes,George Russell (GBR),Red Bull Ring,,,3.0,,36.0,1:19.132,	+4.071,false,1:19.132,2
+Mercedes,Mercedes,Lewis Hamilton (GBR),Jeddah Street Circuit,,1:30.734,3.0,,50.0,1:35.604,1:35.604,false,1:35.604,1
+Mercedes,Mercedes,Valtteri Bottas (FIN),Jeddah Street Circuit,,,3.0,,50.0,2:03.135,	+27.531,false,2:03.135,3
+Mercedes,Mercedes,Lewis Hamilton (GBR),Autodromo Internacional Do Algarve,,,3.0,,66.0,1:22.011,1:22.011,false,1:22.011,1
+Mercedes,Mercedes,Valtteri Bottas (FIN),Autodromo Internacional Do Algarve,,,2.0,,66.0,1:55.541,	+33.530,false,1:55.541,3
+Mercedes,Mercedes,Lewis Hamilton (GBR),Losail International Circuit,,,3.0,,57.0,1:28.77,	+13.016,false,1:28.77,4
+Mercedes,Mercedes,George Russell (GBR),Losail International Circuit,,,3.0,,55.0,1:19.132,	+4.071,false,1:19.132,2

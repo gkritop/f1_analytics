@@ -1,0 +1,23 @@
+team,engine,driver_name,track,pit,laps,best_lap_time,driver_time_int,retired,driver_time,position
+McLaren,Mercedes,Lando Norris (GBR),Bahrain International Circuit,2,56,02:21.4,46.466,False,02:21.4,4
+McLaren,Mercedes,Lando Norris (GBR),Sochi International Street Circuit,3,53,01:34.4,19.306,False,01:34.4,7
+McLaren,Mercedes,Lando Norris (GBR),Circuit de Catalunya,2,65,01:59.2,37.483,False,09:07.2,8
+McLaren,Mercedes,Lando Norris (GBR),Circuit de Monaco,1,78,01:36.3,19.427,False,01:36.3,3
+McLaren,Mercedes,Lando Norris (GBR),Baku City Circuit,3,51,01:49.5,4.754,False,01:49.5,5
+McLaren,Mercedes,Lando Norris (GBR),Red Bull Ring,1,71,01:27.8,20.019,False,01:27.8,3
+McLaren,Mercedes,Lando Norris (GBR),Silverstone Circuit,2,52,02:00.2,28.573,False,02:00.2,4
+McLaren,Mercedes,Lando Norris (GBR),Hungaroring,2,2,01:59.2,37.483,True,03:58.4,17
+McLaren,Mercedes,Lando Norris (GBR),Spa-Francorchamps,0,1,01:59.2,37.483,False,01:59.2,14
+McLaren,Mercedes,Lando Norris (GBR),Autodromo Nazionale Monza,2,53,01:26.6,1.747,False,01:26.6,2
+McLaren,Mercedes,Lando Norris (GBR),Circuit of the Americas,3,56,01:34.4,19.306,False,01:34.4,7
+McLaren,Mercedes,Lando Norris (GBR),Autodromo Hermanos Rodriguez,3,70,01:34.4,19.306,False,01:34.4,7
+McLaren,Mercedes,Lando Norris (GBR),Autodromo Jose Carlos Pace,3,70,01:59.2,37.483,False,19:03.2,10
+McLaren,Mercedes,Lando Norris (GBR),Yas Marina Circuit,3,58,02:25.8,59.2,False,02:25.8,7
+McLaren,Mercedes,Lando Norris (GBR),Circuit Paul Ricard,1,53,02:41.2,64.032,False,02:41.2,5
+McLaren,Mercedes,Lando Norris (GBR),Circuit Zandvoort,1,71,01:59.2,37.483,False,21:02.3,10
+McLaren,Mercedes,Lando Norris (GBR),Autodromo Enzo e Dino Ferrari,3,63,01:34.4,19.306,False,01:34.4,7
+McLaren,Mercedes,Lando Norris (GBR),Intercity Istanbul Park,3,58,01:34.4,19.306,False,01:34.4,7
+McLaren,Mercedes,Lando Norris (GBR),Red Bull Ring,3,70,01:34.4,19.306,False,01:34.4,7
+McLaren,Mercedes,Lando Norris (GBR),Jeddah Street Circuit,3,50,0:02:37,61.358,False,0:02:37,10
+McLaren,Mercedes,Lando Norris (GBR),Autodromo Internacional Do Algarve,3,66,02:13.4,51.369,False,02:13.4,5
+McLaren,Mercedes,Lando Norris (GBR),Losail International Circuit,3,56,01:34.4,19.306,False,01:34.4,7

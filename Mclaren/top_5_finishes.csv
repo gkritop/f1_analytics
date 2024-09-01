@@ -1,0 +1,13 @@
+team,engine,driver_name,track,pit,laps,best_lap_time,driver_time_int,retired,driver_time,position,total_time_minutes
+McLaren,Mercedes,Lando Norris (GBR),Bahrain International Circuit,2,56,02:21.4,46.466,False,02:21.4,4,84.0
+McLaren,Mercedes,Lando Norris (GBR),Circuit de Monaco,1,78,01:36.3,19.427,False,01:36.3,3,117.0
+McLaren,Mercedes,Lando Norris (GBR),Baku City Circuit,3,51,01:49.5,4.754,False,01:49.5,5,76.5
+McLaren,Mercedes,Lando Norris (GBR),Red Bull Ring,1,71,01:27.8,20.019,False,01:27.8,3,106.5
+McLaren,Mercedes,Lando Norris (GBR),Silverstone Circuit,2,52,02:00.2,28.573,False,02:00.2,4,78.0
+McLaren,Mercedes,Daniel Ricciardo (AUS),Silverstone Circuit,2,52,02:14.3,42.624,False,02:14.3,5,78.0
+McLaren,Mercedes,Daniel Ricciardo (AUS),Spa-Francorchamps,0,1,01:59.2,37.483,False,01:59.2,4,1.5
+McLaren,Mercedes,Lando Norris (GBR),Autodromo Nazionale Monza,2,53,01:26.6,1.747,False,01:26.6,2,79.5
+McLaren,Mercedes,Daniel Ricciardo (AUS),Autodromo Nazionale Monza,2,53,01:24.8,37.483,False,01:24.8,1,79.5
+McLaren,Mercedes,Lando Norris (GBR),Circuit Paul Ricard,1,53,02:41.2,64.032,False,02:41.2,5,79.5
+McLaren,Mercedes,Daniel Ricciardo (AUS),Jeddah Street Circuit,2,50,02:15.7,40.121,False,02:15.7,5,75.0
+McLaren,Mercedes,Lando Norris (GBR),Autodromo Internacional Do Algarve,3,66,02:13.4,51.369,False,02:13.4,5,99.0

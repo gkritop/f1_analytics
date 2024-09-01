@@ -1,0 +1,45 @@
+team,engine,driver_name,track,pit,laps,best_lap_time,driver_time_int,retired,driver_time,position
+Ferrari,Ferrari,Charles Leclerc (MON),Bahrain International Circuit,2.0,56.0,02:34.0,59.09,false,02:34.0,6
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Bahrain International Circuit,2.0,56.0,02:42.0,67.1,false,02:42.0,8
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Sochi International Street Circuit,3.0,53.0,01:36.0,20.916,false,01:36.0,8
+Ferrari,Ferrari,Charles Leclerc (MON),Sochi International Street Circuit,4.0,52.0,01:26.0,10.929,false,01:26.0,3
+Ferrari,Ferrari,Charles Leclerc (MON),Circuit de Catalunya,2.0,66.0,02:16.6,54.616,false,02:16.6,4
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Circuit de Catalunya,2.0,66.0,02:36.7,74.67,false,02:36.7,7
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Circuit de Monaco,1.0,78.0,01:25.8,8.968,false,01:25.8,2
+Ferrari,Ferrari,Charles Leclerc (MON),Circuit de Monaco,,0.0,,,true,01:54.3,19
+Ferrari,Ferrari,Charles Leclerc (MON),Baku City Circuit,3.0,51.0,01:48.5,3.828,false,01:48.5,4
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Baku City Circuit,3.0,51.0,01:52.4,7.709,false,01:52.4,8
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Red Bull Ring,1.0,71.0,02:04.9,57.144,false,02:04.9,5
+Ferrari,Ferrari,Charles Leclerc (MON),Red Bull Ring,1.0,71.0,02:08.9,61.195,false,02:08.9,8
+Ferrari,Ferrari,Charles Leclerc (MON),Silverstone Circuit,2.0,52.0,01:35.5,3.871,false,01:35.5,2
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Silverstone Circuit,2.0,52.0,02:15.1,43.454,false,02:15.1,6
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Hungaroring,3.0,70.0,01:36.7,15.018,false,01:36.7,3
+Ferrari,Ferrari,Charles Leclerc (MON),Hungaroring,0.0,0.0,,7658.68625,true,01:54.3,18
+Ferrari,Ferrari,Charles Leclerc (MON),Spa-Francorchamps,0.0,1.0,,,false,01:54.3,8
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Spa-Francorchamps,0.0,1.0,,,false,01:54.3,10
+Ferrari,Ferrari,Charles Leclerc (MON),Autodromo Nazionale Monza,2.0,53.0,01:32.1,7.309,false,01:32.1,4
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Autodromo Nazionale Monza,2.0,53.0,01:35.3,10.535,false,01:35.3,6
+Ferrari,Ferrari,Charles Leclerc (MON),Circuit of the Americas,4.0,,01:26.0,10.929,false,01:26.0,3
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Circuit of the Americas,3.0,,01:36.0,20.916,false,01:36.0,8
+Ferrari,Ferrari,Charles Leclerc (MON),Autodromo Hermanos Rodriguez,4.0,71.0,01:26.0,10.929,false,01:26.0,3
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Autodromo Hermanos Rodriguez,3.0,70.0,01:36.0,20.916,false,01:36.0,8
+Ferrari,Ferrari,Charles Leclerc (MON),Autodromo Jose Carlos Pace,4.0,71.0,02:03.4,49.517,false,02:03.4,5
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Autodromo Jose Carlos Pace,3.0,71.0,02:05.7,51.82,false,02:05.7,6
+Ferrari,Ferrari,Charles Leclerc (MON),Yas Marina Circuit,4.0,58.0,02:32.7,66.057,false,02:32.7,10
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Yas Marina Circuit,3.0,58.0,01:31.8,5.173,false,01:31.8,3
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Circuit Paul Ricard,1.0,53.0,03:16.5,99.337,false,03:16.5,11
+Ferrari,Ferrari,Charles Leclerc (MON),Circuit Paul Ricard,2.0,52.0,,114.30875,false,01:54.3,16
+Ferrari,Ferrari,Charles Leclerc (MON),Circuit Zandvoort,1.0,71.0,,114.30875,false,01:54.3,5
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Circuit Zandvoort,1.0,71.0,,114.30875,false,01:54.3,7
+Ferrari,Ferrari,Charles Leclerc (MON),Autodromo Enzo e Dino Ferrari,4.0,63.0,01:26.0,10.929,false,01:26.0,3
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Autodromo Enzo e Dino Ferrari,3.0,63.0,01:36.0,20.916,false,01:36.0,8
+Ferrari,Ferrari,Charles Leclerc (MON),Intercity Istanbul Park,4.0,,01:26.0,10.929,false,01:26.0,3
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Intercity Istanbul Park,3.0,,01:36.0,20.916,false,01:36.0,8
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Red Bull Ring,3.0,67.0,01:36.0,20.916,false,01:36.0,8
+Ferrari,Ferrari,Charles Leclerc (MON),Red Bull Ring,4.0,69.0,01:26.0,10.929,false,01:26.0,3
+Ferrari,Ferrari,Charles Leclerc (MON),Jeddah Street Circuit,3.0,50.0,02:20.1,44.475,false,02:20.1,7
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Jeddah Street Circuit,2.0,50.0,02:22.2,46.606,false,02:22.2,8
+Ferrari,Ferrari,Charles Leclerc (MON),Autodromo Internacional Do Algarve,4.0,66.0,02:17.8,55.781,false,02:17.8,6
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Autodromo Internacional Do Algarve,3.0,66.0,02:41.0,78.955,false,02:41.0,11
+Ferrari,Ferrari,Carlos Sainz Jr (ESP),Losail International Circuit,3.0,57.0,01:36.0,20.916,false,01:36.0,8
+Ferrari,Ferrari,Charles Leclerc (MON),Losail International Circuit,4.0,57.0,01:26.0,10.929,false,01:26.0,3
